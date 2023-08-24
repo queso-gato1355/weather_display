@@ -2,6 +2,8 @@
 
 # 나만의 아두이노 날씨 표시장치 만들기
 
+<img width="40%" src="./final.jpg"/>
+
 ## 개요
 
 [![upir video](https://img.youtube.com/vi/xI6dXTA02UQ/0.jpg)](https://youtu.be/xI6dXTA02UQ?si=fvz78xu_96NryqND)
@@ -27,3 +29,22 @@
 </div>
 
 기타 제작하는 데 필요한 스위치, 전선 등은 오프라인에서 구매하였다.
+
+<div align="center">
+
+## 과정
+
+<img width="50%" src="./Gauge_tutorial.jpg"/>
+
+</div>
+
+<br>
+
+먼저 영상에 나오는 게이지를 직접 만들어보고, 그걸 응용한 작품을 먼저 만드는 것으로 시작한다. Upir은 게이지 작업을 위해 포토샵 작업 등 내가 그동안 해보지 못 한 새로운 방법으로 UI를 제작했다. 나의 경우에는 수학이나 감각을 이용해 코드로 디자인을 했는데, BMP를 이용해 OLED에 표현하는 방식이 더 효과적임을 알 수 있었다. 심지어 자신만의 숫자 폰트도 BMP로 구현하는 방법을 설명했다. 
+
+<br>
+
+<div align="center">
+
+| <img width="100%" src="./implement_1.jpg"/> | <img width="100%" src="./implement_2.mov"/> | <img width="75%" src="./implement_3.jpg"/> |
+| --- | --- | --- |
